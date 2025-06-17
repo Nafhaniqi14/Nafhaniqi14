@@ -52,7 +52,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Nafhaniqi14/Nafhaniqi14/output/snake.svg" alt="Snake animation" />
-
-###
